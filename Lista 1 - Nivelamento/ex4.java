@@ -24,6 +24,7 @@ public class ex4 {
 
         System.out.println("Olá, " + nome + " Sua média foi de " + media );
 
+        scanner.close();
 
 
     }
