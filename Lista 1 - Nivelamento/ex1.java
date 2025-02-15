@@ -6,9 +6,9 @@ public class ex1 {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 
-    int filho0a4 = 0;
-    int filho4a16 = 0;
-    int filho17a18 = 0;
+    int filho0a4;
+    int filho4a16;
+    int filho17a18;
 
     double valor_0a3 = 25.12;
     double valor_4a16 = 195.88;

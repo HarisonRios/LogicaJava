@@ -6,9 +6,9 @@ public class ex2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int tempoAquecimento = 0;
-        int tempoAerobico = 0;
-        int tempoMusculacao = 0;
+        int tempoAquecimento;
+        int tempoAerobico;
+        int tempoMusculacao ;
 
         double aquecimento = 12;
         double aerobico = 20;
